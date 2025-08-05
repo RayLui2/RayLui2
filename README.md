@@ -6,7 +6,7 @@
 - Contact **luiray28@gmail.com**
 
 - 📄 Know about my experiences:<br>
-  **Incoming Software Development Intern @ LLNL**<br>
+  **Software Development Intern @ LLNL**<br>
   **Software Engineering Intern @ County of SLO**<br>
   **Software Engineering Intern @ Conspire Commerce**
 
