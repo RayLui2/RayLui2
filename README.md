@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ray Lui</h1>
-<h3 align="center">A passionate 4th year computer engineering major at Cal Poly SLO</h3>
+<h3 align="center">A software engineer and Cal Poly Slo computer engineering alumni!</h3>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
